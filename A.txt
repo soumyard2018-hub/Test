@@ -1,4 +1,9 @@
 update1
 update 2
 
+<<<<<<< Updated upstream
 customer update
+=======
+some update 
+complete 100
+>>>>>>> Stashed changes
